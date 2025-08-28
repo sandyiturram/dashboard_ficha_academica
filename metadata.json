@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Datos Académicos (SIMPLIFICADO)",
+  "description": "Una aplicación web para cargar y visualizar datos académicos desde un archivo Excel. Genera automáticamente gráficos e indicadores clave de rendimiento relacionados con publicaciones, tesis y perfiles académicos.",
+  "requestFramePermissions": []
+}
